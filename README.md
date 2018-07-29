@@ -1,5 +1,5 @@
 # ProjectInputField
-
+Project (copy) an input field to an other input field and Debounce strokes
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
