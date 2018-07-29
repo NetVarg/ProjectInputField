@@ -1,0 +1,12 @@
+<div class="container">
+  <h1>Projcet input field to an other input field and Debounce strokes</h1>
+</div>
+<br />
+<div>
+  <form [formGroup]="userForm" (ngSubmit)="onFormSubmit()">
+    Name:
+    <input formControlName="name" placeholder="Enter Name"> Age:
+    <input formControlName="namecopy" placeholder="Name copy">
+    <button type="submit">Submit</button>
+  </form>
+</div>
